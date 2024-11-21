@@ -34,7 +34,7 @@ const TopNav = () => {
 
   return (
     <nav className="bg-gray-950 p-3 flex justify-between items-start sticky top-0 z-50">
-      <div>Logo</div>
+      <div>LOGO</div>
 
       {/* Links */}
       <div className="flex flex-col md:flex-row gap-3">
