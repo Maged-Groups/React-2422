@@ -22,6 +22,9 @@ git rm --cached file_path
 ## to push to GIT Hub
 git push
 
+## to pull from GIT Hub
+git pull
+
 
 # Useful Resources
 ## Redux
