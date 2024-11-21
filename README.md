@@ -19,10 +19,10 @@ git commit -m "Your Message or lable"
 git rm --cached file_path
 
 
-## to push to GIT Hub
+## To push to GIT Hub
 git push
 
-## to pull from GIT Hub
+## To pull from GIT Hub
 git pull
 
 
